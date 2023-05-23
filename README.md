@@ -1,16 +1,16 @@
 # xray-reality
-This is a Bash script that installs Xray Beta and downloads the configuration for the repository created by [Teegrce](https://twitter.com/Teegrce) for Iran inside this repository with your own key and places it only with one command :)
+This is a Bash script that installs Xray Beta and downloads the configuration for the repository created by [Teegrce](https://twitter.com/Teegrce) for China inside this repository with your own key and places it only with one command :)
 #
 ## Installation Guide
 just need you to run this command
 ```
- bash -c "$(curl -L https://raw.githubusercontent.com/sajjaddg/xray-reality/master/install.sh)"
+ bash -c "$(curl -L https://raw.githubusercontent.com/Riverboat8865/xray-reality/master/install.sh)"
 ``` 
 and it will do the rest for you.
 
 ## Uninstallation guide
 ```
- bash -c "$(curl -L https://raw.githubusercontent.com/sajjaddg/xray-reality/master/uninstall.sh)"
+ bash -c "$(curl -L https://raw.githubusercontent.com/Riverboat8865/xray-reality/master/uninstall.sh)"
 ``` 
 
 ## Installation Guide with Docker 
@@ -21,7 +21,7 @@ curl -fsSL https://get.docker.com | sh
 ```
 1. clone this project 
 ``` bash
-git clone https://github.com/sajjaddg/xray-reality && cd xray-reality
+git clone https://github.com/Riverboat8865/xray-reality && cd xray-reality
 ```
 2. build docker image 
 ``` bash
