@@ -92,13 +92,14 @@
         "type": "field"
       },
       {
-        "domain": ["Samandehi.ir"],
         "type": "field",
+        "port": "443",
+        "network": "udp",
         "outboundTag": "blocked"
       },
       {
         "type": "field",
-        "ip": ["geoip:ir", "geoip:private"],
+        "ip": ["geoip:cn", "geoip:private"],
         "outboundTag": "blocked"
       },
       {
